@@ -11,3 +11,7 @@ function lastImageSelector() {
 function divSelector() {
   return $('.pics')
 }
+
+function firstItemList() {
+  return $('ul:')
+}
